@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+p{
+    color: white;
+}
+.namepic{
+    float: left;
+    margin-top: 0;
+}
+.namepic img{
+    height: 30px;
+}
+
+.namepic p{
+    float: right;
+}
+head{
+    width: 100%;
+    height: 50px;
+}

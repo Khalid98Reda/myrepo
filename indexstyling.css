@@ -1,0 +1,65 @@
+html{
+    background-color: black;
+}
+nav{
+    width: 100%;
+    height: 25px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+nav img{
+    float: left;
+    height: 50px;
+    margin-top: 0;
+}
+nav input{
+    border-radius: 15%;
+    height: 30px;
+    margin-left: 15px;
+    margin-top: 10px;
+    float: left;
+    width: 400px;
+}
+nav li{
+    list-style: none;
+    float: right;
+    padding: 25px;
+    color: white;
+}
+nav{
+    clear: both;
+}
+.images{
+    width: 100%;
+    height: 50px;
+}
+.images img{
+    border-radius: 25%;
+    height: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+body{
+    height: 55px;
+}
+footer img{
+    float: left;
+    height: 50px;
+    margin-top: 20;
+}
+footer input{
+    float: left;
+    height: 30px;
+    margin-left: 15px;
+    margin-top: 10px;
+    width: 400px;
+    border-radius: 10%;
+}
+footer{
+    margin-top: 35vh;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 50px;
+    background-color: gray;
+}
